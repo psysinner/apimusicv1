@@ -22,11 +22,11 @@ services:
       MONGO_DB_URI: 
         value: mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION
       OWNER_ID:
-        value: 7574330905
+        value: 8762303617
       OWNER_USERNAME:
-        value: WTF_WhyMeeh
+        value: DoomX2
       BOT_USERNAME:
-        value: ShrutixMusicBot
+        value: GostMusicProbot
       UPSTREAM_REPO:
         value: https://github.com/NoxxOP/ShrutiMusic
       STRING_SESSION:
@@ -40,9 +40,9 @@ services:
       LOG_GROUP_ID:
         value: -1002321189618
       SUPPORT_GROUP:
-        value: https://t.me/ShrutiBotsupport
+        value: https://t.me/GOSTBOTSupport
       SUPPORT_CHANNEL:
-        value: https://t.me/ShrutiBots
+        value: https://t.me/GOSTBOTS
       INSTAGRAM:
         value: https://instagram.com/yaduwanshi_nand
       YOUTUBE:
@@ -50,6 +50,6 @@ services:
       GITHUB:
         value: https://github.com/NoxxOP
       DONATE:
-        value: https://t.me/ShrutiBots/91
+        value: https://t.me/GOSTBOTS/91
       START_IMG_URL:
         sync: false

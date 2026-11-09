@@ -23,8 +23,8 @@ Not Allowed:
 - Re-uploading without credit or permission
 - Selling or using commercially
 
-Love From ShrutiBots
-Telegram: https://t.me/ShrutiBots
+Love From GOSTBOTS
+Telegram: https://t.me/GOSTBOTS
 """
 
 from typing import Union

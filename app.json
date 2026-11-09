@@ -6,7 +6,7 @@
     "python3",
     "telegram",
     "bot",
-    "ShrutiBots",
+    "GOSTBOTS",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -39,12 +39,12 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7574330905",
+      "value": "8762303617",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "GostMusicProbot",
       "required": true
     },
     "UPSTREAM_REPO": {
@@ -84,7 +84,7 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel link",
-      "value": "https://t.me/ShrutiBots",
+      "value": "https://t.me/GOSTBOTS",
       "required": false
     },
     "INSTAGRAM": {

@@ -371,7 +371,7 @@ HELP_37 = """🤖 <b>ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇsᴇ ʙᴏᴛs</b> �
 
 🔹 <b>ᴛʜɪs ғᴜɴᴄᴛɪᴏɴ ɪs sᴜᴘᴘᴏʀᴛᴇᴅ ɪɴ:</b>  
 
-• @ShrutixMusicbot – <b>Sʜʀᴜᴛɪ Mᴜsɪᴄ Bᴏᴛ</b>  
+• @GostMusicProbot – <b>Sʜʀᴜᴛɪ Mᴜsɪᴄ Bᴏᴛ</b>  
 • @M4_Music_BoT – <b>M4 Mᴜsɪᴄ Bᴏᴛ</b>  
 
 ✨ <b>ᴜsᴇ ᴛʜᴇsᴇ ʙᴏᴛs ᴛᴏ ᴇɴᴊᴏʏ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ғᴜʟʟʏ.</b>"""
@@ -428,8 +428,8 @@ HELP_39 = """🎤 <b>VC LOGGER</b> 📢
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/GOSTBOTS
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From GOSTBOTS 

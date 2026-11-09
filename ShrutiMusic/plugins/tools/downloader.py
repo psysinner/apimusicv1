@@ -3325,7 +3325,7 @@ async def send_repo(_, message: Message):
         caption=(
             "<b>✨ ʜᴇʏ ᴅᴇᴀʀ, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴏꜰꜰɪᴄɪᴀʟ ʀᴇᴘᴏꜱɪᴛᴏʀʏ �ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ ✨</b>\n\n"
             "🔗 �ᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ ꜱᴛᴀʀ 🌟 ᴀɴᴅ ꜰᴏʟʟᴏᴡ!\n\n"
-            "🧡 ᴄʀᴇᴅɪᴛꜱ : <a href='https://t.me/ShrutiBots'>@ShrutiBots</a>"
+            "🧡 ᴄʀᴇᴅɪᴛꜱ : <a href='https://t.me/GOSTBOTS'>@GOSTBOTS</a>"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
@@ -3669,8 +3669,8 @@ async def send_repo(_, message: Message):
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/GOSTBOTS
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From GOSTBOTS 

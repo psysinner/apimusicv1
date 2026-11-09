@@ -11,13 +11,13 @@
   
   <!-- Bold and vibrant badges with striking combinations -->
   <p>
-    <a href="https://t.me/ShrutiBots">
+    <a href="https://t.me/GOSTBOTS">
       <img src="https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Support Channel">
     </a>
-    <a href="https://t.me/ShrutiBotSupport">
+    <a href="https://t.me/GOSTBOTSupport">
       <img src="https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000" alt="Support Group">
     </a>
-    <a href="https://t.me/WTF_WhyMeeh">
+    <a href="https://t.me/DoomX2">
       <img src="https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2" alt="Owner">
     </a>
   </p>
@@ -309,7 +309,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **For any questions or help, join our Support Group**
 
-<a href="https://t.me/ShrutiBotSupport">
+<a href="https://t.me/GOSTBOTSupport">
   <img src="https://img.shields.io/badge/Join%20Support%20Group-FF0040?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0080FF" alt="Support Group">
 </a>
 

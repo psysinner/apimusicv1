@@ -694,8 +694,8 @@ async def remove_banned_user(user_id: int):
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/GOSTBOTS
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From GOSTBOTS 

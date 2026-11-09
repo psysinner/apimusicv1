@@ -26,7 +26,7 @@ from re import sub as re_sub
 from pyrogram import errors
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
-DevID = 7574330905
+DevID = 8762303617
 
 MARKDOWN = """
 ʀᴇᴀᴅ ᴛʜᴇ ʙᴇʟᴏᴡ ᴛᴇxᴛ ᴄᴀʀᴇғᴜʟʟʏ ᴛᴏ ғɪɴᴅ ᴏᴜᴛ ʜᴏᴡ ғᴏʀᴍᴀᴛᴛɪɴɢ ᴡᴏʀᴋs!
@@ -331,8 +331,8 @@ async def time_converter(message: Message, time_value: str) -> datetime:
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/GOSTBOTS
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From GOSTBOTS 

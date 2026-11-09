@@ -86,8 +86,8 @@ async def sudoers_list(client, message: Message, _):
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/GOSTBOTS
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From GOSTBOTS 

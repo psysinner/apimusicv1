@@ -31,7 +31,7 @@ TEXT = f"""
 
 Your privacy is important to us. To learn more about how we collect, use, and protect your data, please review our Privacy Policy here: [Privacy Policy]({config.PRIVACY_LINK}).
 
-If you have any questions or concerns, feel free to reach out to our [support team](https://t.me/ShrutiBotSupport).
+If you have any questions or concerns, feel free to reach out to our [support team](https://t.me/GOSTBOTSupport).
 """
 
 @app.on_message(filters.command("privacy"))
@@ -59,8 +59,8 @@ async def privacy(client, message: Message):
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 📢 Telegram Channel : https://t.me/GOSTBOTS
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From GOSTBOTS 
